@@ -1,4 +1,4 @@
 # NEAT-IRIS
 
 Packages to install:
-- https://scikit-learn.org/stable/install.html
+- Scikit-Learn: https://scikit-learn.org/stable/install.html
